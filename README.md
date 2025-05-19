@@ -1,32 +1,44 @@
-### Hi there 👋
+# 👋 Hi, I'm Michael Tavakoli
 
-# Skills Bootcamp Data Science Fundamentals Repository
+A passionate full-stack developer with a strong focus on **Node.js**, **Python**, and **MySQL**. I love building practical web applications, clean admin dashboards, and custom tools for both churches and industrial needs.
 
-Welcome to the Skills Bootcamp Data Science Fundamentals repository! This repository serves as a comprehensive collection of exercises, projects, and files created during my journey as a student in the Skills Bootcamp Data Science Fundamentals program.
+---
 
-## Purpose
+## 🛠 Skills
 
-As a student enrolled in the Skills Bootcamp Data Science Fundamentals program, I've compiled all my coursework, exercises, and projects into this repository. Whether it's practicing Python programming, exploring statistical concepts, or diving into machine learning algorithms, you'll find a wide range of materials here that showcase my progress and learning throughout the bootcamp.
+- **Languages:** JavaScript (Node.js), Python, SQL, HTML, CSS
+- **Frameworks & Libraries:** Express.js, EJS, Bootstrap, PySide6, Tkinter
+- **Databases:** MySQL, phpMyAdmin, MongoDB (migrating to SQL)
+- **Tools & Platforms:** Git, GitHub, Cloudinary, WSL, DigitalOcean, CPanel
 
-## What's Included
+---
 
-- **Python Exercises**: Code snippets, scripts, and notebooks demonstrating my proficiency in Python programming, including data manipulation, visualization, and analysis.
-  
-- **Statistical Analysis Projects**: Jupyter notebooks and reports showcasing my understanding and application of fundamental statistical concepts such as hypothesis testing, regression analysis, and probability theory.
+## 📌 Projects
 
-- **Machine Learning Projects**: Hands-on projects implementing various machine learning algorithms, including classification, regression, clustering, and more. Each project includes data exploration, model building, evaluation, and interpretation.
+- 🔔 **New Beginning Church Website** – Features church registration, member dashboard, admin panel, and content management with a fully responsive bilingual interface
+- 🖥 **Windows App** – Built with PySide6 to manage devices, generate and update JSON configuration files, and connect to MySQL databases
+- 🛠 **Mackwell Company Tools** – Industrial software for reading and editing device configuration data based on MongoDB structure and exporting to Excel/JSON
+- ⚙ **Admin Panel System** – Handles full church content management, church approval, editing/deleting records, and visual dashboards
+- 📅 **Church Events Platform** – Under development, allowing users to browse and filter events by church and country
 
-- **Data Visualization**: Visualizations created using libraries like Matplotlib, Seaborn, and Plotly to communicate insights and findings effectively.
+---
 
-## Target Audience
+## 🌐 Goals
 
-This repository is primarily intended for fellow bootcamp students, instructors, and anyone interested in learning about data science fundamentals. Whether you're a beginner looking for practical examples or an experienced data practitioner interested in exploring different approaches, you'll find valuable resources and insights here.
+- Build an international platform to empower churches to manage their content and events online
+- Develop advanced industrial desktop tools tailored to real production workflows
+- Learn and implement Web3 technologies using platforms like DFINITY for decentralized infrastructure
 
-## Contribution
+---
 
-While this repository primarily showcases my own work and progress, I welcome feedback, suggestions, and contributions from the community. If you spot any errors, have ideas for improvement, or want to collaborate on a project, feel free to submit a pull request or reach out to me directly.
+## 📬 Contact Me
 
-## Get in Touch
+- 📧 Email: mt_8161@yahoo.com
+- 🌍 Website: Coming soon
+- 📁 GitHub Repos: See below
 
-If you have any questions, suggestions, or just want to connect, feel free to reach out to me via email at [mt_8161@yahoo.com](mailto:your@email.com) or through GitHub.
+---
 
+## 🙏 Thanks for visiting!
+
+If you're interested in collaborating or have any questions about my work, feel free to reach out!
